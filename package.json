@@ -1,0 +1,13 @@
+{
+  "name": "ts-fix-me-classes",
+  "version": "1.0.0",
+  "description": "Find and fix all the errors in classes and methods in the code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc src/rectangle.ts && node src/rectangle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
